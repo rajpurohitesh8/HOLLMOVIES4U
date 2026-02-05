@@ -1,0 +1,7 @@
+{
+  "name": "WorldFreeClone - Premium Movie Portal",
+  "description": "A high-fidelity React clone of a popular movie portal featuring an AI-powered movie assistant, modern UI/UX, and advanced filtering.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
